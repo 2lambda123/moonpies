@@ -30,7 +30,7 @@ patchworklib = "^0.5.0"
 
 [tool.poetry.dev-dependencies]
 jupyter = "^1.0.0"
-black = "^22.3.0"
+black = "^24.3.0"
 pylint = "^2.9.3"
 pytest = "^6.2.4"
 pandoc = "^1.1.0"
